@@ -1,0 +1,21 @@
+{
+  "name": "maps_application",
+  "version": "1.0.0",
+  "description": "test application maps",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.3.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sdg",
+    "start": "node server.js"
+  },
+  "author": "homeandroid",
+  "license": "ISC"
+}
